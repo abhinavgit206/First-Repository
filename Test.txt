@@ -1,2 +1,4 @@
 learing for taggit commit
-branching
+branchinggit status
+
+Switching between branches.
